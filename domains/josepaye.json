@@ -6,7 +6,7 @@
         "email": "[jose.geeksjose@gmail.com]"
     },
     "record": {
-        "CNAME": "is-a-dev-docs.pages.dev"
+        "CNAME": "https://josepaye.vercel.app"
     },
     "proxied": true
 }
