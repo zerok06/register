@@ -1,0 +1,12 @@
+{
+    "description": "Portfolio website.",
+    "repo": "https://github.com/is-a-dev/docs",
+    "owner": {
+        "username": "zerok06",
+        "email": "[jose.geeksjose@gmail.com]"
+    },
+    "record": {
+        "CNAME": "is-a-dev-docs.pages.dev"
+    },
+    "proxied": true
+}
